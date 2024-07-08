@@ -1,11 +1,12 @@
 {
   "name": "triprecharge-did-db",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mohammed Galib<mohammedg@xinetechsol.com>",
+  "git": "https://github.com/xinetech/triprecharge-did-db",
   "license": "ISC",
   "description": "TripRecharge Decentralized Database layer package",
   "dependencies": {
