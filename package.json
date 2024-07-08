@@ -6,7 +6,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mohammed Galib<mohammedg@xinetechsol.com>",
-  "git": "https://github.com/xinetech/triprecharge-did-db",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xinetech/triprecharge-did-db"
+  },
   "license": "ISC",
   "description": "TripRecharge Decentralized Database layer package",
   "dependencies": {
