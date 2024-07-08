@@ -1,0 +1,19 @@
+{
+  "name": "triprecharge-did-db",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Galib<mohammedg@xinetechsol.com>",
+  "license": "ISC",
+  "description": "TripRecharge Decentralized Database layer package",
+  "dependencies": {
+    "bigchaindb-driver": "^4.3.0",
+    "bs58": "^6.0.0",
+    "crypto": "^1.0.1",
+    "jose": "^5.6.2",
+    "sovrin-did": "^1.4.0",
+    "tweetnacl": "^1.0.3"
+  }
+}
